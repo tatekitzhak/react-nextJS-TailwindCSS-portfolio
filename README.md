@@ -1,35 +1,13 @@
-npm config set legacy-peer-deps true
-
-
 ### To delete all data out of the cache folder on Linux and macOS
-rm -rf node_modules
-rm -rf **/node_modules
-rm -rf package-lock.json
-rm -rf .next
-rm -rf yarn-error.log
-rm -rf yarn.lock
-npm cache clean --force
-npm cache verify
-
-### Features - 
-
-- Modern Stack (Next.js + TailwindCSS)
-- Minimal Design
-- Easy To Browse
-- Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
-- Dark Mode
-
-
-### Sections
-
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
-
+- npm config set legacy-peer-deps true
+- rm -rf node_modules
+- rm -rf **/node_modules
+- rm -rf package-lock.json
+- rm -rf .next
+- rm -rf yarn-error.log
+- rm -rf yarn.lock
+- npm cache clean --force
+- npm cache verify
 
 ### How To Use and start 
 - `npm run dev`   : "next dev"
@@ -45,10 +23,6 @@ npm cache verify
 - Login into netlify with github
 - after login select the forked repo or the repo you want to deploy
 - after selecting netlify will automatially deploy your website.
-
-Quickes way to deploy this repo - 
-
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
 
 
 ### How To Contribute - 
