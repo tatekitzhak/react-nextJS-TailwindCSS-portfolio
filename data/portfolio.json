@@ -1,0 +1,148 @@
+{
+    "name": " Logo ",
+    "headerTaglineOne": "Dining on Ethiopian cultural food is characterized by the ritual of breaking 'injera' and sharing food from a common plate, signifying the bonds of loyalty and friendship. The traditional way of eating is with fingers. 'Injera' is placed on the plate with variety of dishes decoratively arranged around it. A small portion of 'Injera' is torn off and wrapped around a mouthful of the selected dish. 'Injera', our staple bread, is a flat bread made of 'Teff', a fine grain unique to Ethiopia. 'Wot' is dipping sauce which maybe prepared using a variety of meats, fish, and vegetables. 'Wot' is cooked with 'Berbere' (Ethiopian seasoning prepared from matured red chili pepper and other exotic spices) which may range from very mild to spicy hot. 'Alitcha' is more mildly spiced dipping sauce prepared with a variety of meats or vegetables. Ethiopian cultural dishes are prepared with a distinctive variety of unique spices for an unforgettably striking dimension to exotic cookery. To help you make the best of choice for this truly different and exciting dinning experience we offer the following descriptions:",
+    "headerTaglineTwo": "Berbere: A popular Ethiopian seasoning prepared from red chili peppers, garlic, & other spice. Berbere is sun-dried then mixed with more spices & used in wots.",
+    "headerTaglineThree": "Nitir Kibe: Another Ethiopian basic, Nitir Kibe is pure clarified butter seasoned with several condiments and used in traditional sauteing.",
+    "headerTaglineFour": "Alitcha: A delicately mild sauce made from meat, legumes or beans with garlic, ginger and Ird.",
+    "headerTaglineSix": "Mitmita: Bird's eye red pepper spiced with cardamom & salt, usually served with Kitf.",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Facebook",
+            "link": "https://github.com/chetanverma16"
+        },
+        {
+            "id": "2",
+            "title": "Instagram",
+            "link": "https://www.linkedin.com/in/chetanverma7/"
+        },
+        {
+            "id": "3",
+            "title": "Twitter",
+            "link": "https://twitter.com/realchetanverma"
+        },
+        {
+            "id": "4",
+            "title": "Pinterest",
+            "link": "https://blog.chetanverma.com/"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:hello@chetanverma.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "What Is Ethiopian Coffee Culture?",
+            "description": "Coffee",
+            "imageSrc": "https://techstray.com/wp-content/uploads/2022/10/What-Is-Ethiopian-Coffee-Culture.jpg",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "2",
+            "title": "Ethiopian dress",
+            "description": "dress",
+            "imageSrc": "https://res.cloudinary.com/link-ethiopia/image/upload/w_500,dpr_2.0,q_auto:good/v000002/ms-0366-e1434709702882_cxh477.jpg",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "3",
+            "title": "ETHIOPIAN CULTURAL FOOD",
+            "description": "FOOD",
+            "imageSrc": "https://www.wildfrontierstravel.com/media/cache/page_image_large/upload/mirror/www-wildfrontierstravel-com/b64c26db_ce39f31930adfc8fe1b6226f3c09a0088670ffbb.jpeg",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "4",
+            "title": "Ethiopian Cotton, Handspinning and Handweaving Tradition Continues",
+            "description": "Marketing",
+            "imageSrc": "https://assets-clothroads-com.s3.amazonaws.com/uploads/2017/03/IMG_3478-e1488992116743-scaled.jpg",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "5",
+            "title": "Ethiopian Cotton, Handspinning and Handweaving Tradition Continues",
+            "description": "Ethiopian Cotton",
+            "imageSrc": "https://assets-clothroads-com.s3.amazonaws.com/uploads/2017/03/IMG_3478-e1488992116743-scaled.jpg",
+            "url": "http://chetanverma.com/"
+        },
+        {
+            "id": "6",
+            "title": "Project Six",
+            "description": "Design & Development",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "http://chetanverma.com/"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Art Direction",
+            "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+        },
+        {
+            "id": "2",
+            "title": "Branding",
+            "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+        },
+        {
+            "id": "3",
+            "title": "Web Design",
+            "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+        },
+        {
+            "id": "4",
+            "title": "3D Design",
+            "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+        }
+    ],
+    "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "resume": {
+        "tagline": "👋  I'm a software engineer, product designer.",
+        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "March 2022 - Present",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Bullet One, Bullet Two"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "July 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+            }
+        ],
+        "education": {
+            "universityName": "University X",
+            "universityDate": "2016-2020",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Go"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS"
+        ]
+    }
+}
