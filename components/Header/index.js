@@ -1,6 +1,7 @@
 import { Popover } from "@headlessui/react";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
+import Link from "next/link";
 import React, { useEffect, useState } from "react";
 import Button from "../Button";
 // Local Data
@@ -62,7 +63,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 </Popover.Button>
               </div>
             </div>
-{/*             
+            
             <Popover.Panel
               className={`absolute right-0 z-10 w-11/12 p-4 ${
                 theme === "dark" ? "bg-slate-800" : "bg-white"
@@ -107,7 +108,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   </Button>
                 </div>
               )}
-            </Popover.Panel> */}
+            </Popover.Panel>
           </>
         )}
       </Popover>
@@ -130,7 +131,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             {showBlog && (
               <Button onClick={() => router.push("/blog")}>Blog</Button>
             )}
-
+            <Link href="/edit">
+              <Button type="primary">Edit Data</Button>
+            </Link>
             <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
               Contact
             </Button>

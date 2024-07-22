@@ -7,6 +7,7 @@ import { useTheme } from "next-themes";
 // Data
 import yourData from "../data/portfolio.json";
 import Cursor from "../components/Cursor";
+import Footer from "../components/Footer";
 
 const Edit = () => {
   // states
@@ -151,6 +152,7 @@ const Edit = () => {
       <Header isBlog></Header>
       {data.showCursor && <Cursor />}
       <div className="mt-10">
+{/*         
         <div className={`${theme === "dark" ? "bg-transparent" : "bg-white"}`}>
           <div className="flex items-center justify-between">
             <h1 className="text-4xl">Dashboard</h1>
@@ -200,6 +202,8 @@ const Edit = () => {
             </Button>
           </div>
         </div>
+ */}
+
         {/* HEADER */}
         {currentTabs === "HEADER" && (
           <div className="mt-10">
@@ -904,6 +908,7 @@ const Edit = () => {
           </div>
         )}
       </div>
+      <Footer />
     </div>
   );
 };
