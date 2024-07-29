@@ -67,19 +67,19 @@ export default function Home() {
           <h1 className="text-xl">Ethiopian Cultures</h1>
           
 
-          <section class="text-gray-600 body-font">
-            <div class="flex pt-12 px-6 md:px-20  items-center justify-center bg-hero md:h-screen overflow-hidden">
-                <div class="flex flex-col  gap-6 md:flex-row items-center max-w-8xl">
-                    <div class="w-full md:w-1/2 lg:pr-32">
-                        <h2 class="text-4xl lg:text-5xl text-center md:text-left text-blue-900 leading-tight font-medium">There’s a
+          <section className="text-gray-600 body-font">
+            <div className="flex pt-12 px-6 md:px-20  items-center justify-center bg-hero md:h-screen overflow-hidden">
+                <div className="flex flex-col  gap-6 md:flex-row items-center max-w-8xl">
+                    <div className="w-full md:w-1/2 lg:pr-32">
+                        <h2 className="text-4xl lg:text-5xl text-center md:text-left text-blue-900 leading-tight font-medium">There’s a
                             better way to talk with your customers.</h2>
                         <h3
-                            class="mt-6 md:mt-10 text-md lg:text-xl text-center md:text-left text-gray-700 font-light tracking-wider leading-relaxed">
+                            className="mt-6 md:mt-10 text-md lg:text-xl text-center md:text-left text-gray-700 font-light tracking-wider leading-relaxed">
                             Help Scout is designed with your customers in mind. Provide email and live chat with a personal touch,
                             and deliver help content right where your customers need it, all in one place, all for one low price.
                         </h3>
                     </div>
-                    <div class="w-full md:w-1/2 flex justify-center md:justify-end">
+                    <div className="w-full md:w-1/2 flex justify-center md:justify-end">
                         <img src="https://loremflickr.com/g/600/600/girl"/>
                     </div>
                 </div>
@@ -87,40 +87,40 @@ export default function Home() {
           </section>
 
 
-          <section class="text-gray-600 body-font">
-              <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+          <section className="text-gray-600 body-font">
+              <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
                   <div
-                      class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-                      <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Before they sold out
-                          <br class="hidden lg:inline-block"/>readymade gluten
+                      className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+                      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Before they sold out
+                          <br className="hidden lg:inline-block"/>readymade gluten
                       </h1>
-                      <p class="mb-8 leading-relaxed">Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant
+                      <p className="mb-8 leading-relaxed">Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant
                           cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic
                           tumeric truffaut hexagon try-hard chambray.</p>
                 
                   </div>
-                  <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-                      <img class="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600"/>
+                  <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+                      <img className="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600"/>
                   </div>
               </div>
           </section>
 
-          <section class="text-gray-600 body-font bg-white">
-            <div class="container mx-auto flex px-5 md:px-40 py-24 flex-row items-center">
-              <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+          <section className="text-gray-600 body-font bg-white">
+            <div className="container mx-auto flex px-5 md:px-40 py-24 flex-row items-center">
+              <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
                 <a href="" target="_blank">
-                  <img class="object-cover object-center rounded" alt="tip_book" src="https://res.cloudinary.com/link-ethiopia/image/upload/w_500,dpr_2.0,q_auto:good/v000002/ms-0366-e1434709702882_cxh477.jpg" />
+                  <img className="object-cover object-center rounded" alt="tip_book" src="https://res.cloudinary.com/link-ethiopia/image/upload/w_500,dpr_2.0,q_auto:good/v000002/ms-0366-e1434709702882_cxh477.jpg" />
                 </a>
               </div>
-              <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-                <h1 class="title-font sm:text-xl text-lg mb-4 font-medium text-gray-500 tracking-tighter">
+              <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+                <h1 className="title-font sm:text-xl text-lg mb-4 font-medium text-gray-500 tracking-tighter">
                   small heading
                 </h1>
-                <h1 class="title-font sm:text-5xl text-3xl mb-4 font-bold text-gray-900 tracking-normal 2xl:whitespace-normal whitespace-nowrap">
+                <h1 className="title-font sm:text-5xl text-3xl mb-4 font-bold text-gray-900 tracking-normal 2xl:whitespace-normal whitespace-nowrap">
                   title for the div
                 </h1>
-                <p class="mt-5 mb-8 leading-relaxed text-xl 2xl:whitespace-normal">
-                  <span class="text-yellow-600 font-bold text-lg">
+                <p className="mt-5 mb-8 leading-relaxed text-xl 2xl:whitespace-normal">
+                  <span className="text-yellow-600 font-bold text-lg">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
                     ipsum laudantium, consectetur in deserunt veniam. Asperiores
                     fugiat necessitatibus nisi minus? Maiores ab, tempore quibusdam
@@ -139,9 +139,9 @@ export default function Home() {
 
 
 
-          <div class="content flex py-2">
-            <img class="w-48 h-48" src="https://res.cloudinary.com/link-ethiopia/image/upload/w_500,dpr_2.0,q_auto:good/v000002/ms-0366-e1434709702882_cxh477.jpg" alt="" />
-            <div class="item-body px-2 ">
+          <div className="content flex py-2">
+            <img className="w-48 h-48" src="https://res.cloudinary.com/link-ethiopia/image/upload/w_500,dpr_2.0,q_auto:good/v000002/ms-0366-e1434709702882_cxh477.jpg" alt="" />
+            <div className="item-body px-2 ">
               <p
                 ref={textOne}
                 className="text-yellow-600 font-bold text-lg tablet:text-lg laptop:text-lg laptopl:text-lg p-1 tablet:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5"
