@@ -1,4 +1,5 @@
 import { useRef } from "react";
+import { useTheme } from "next-themes";
 import Header from "../components/Header";
 import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
@@ -7,14 +8,13 @@ import { useIsomorphicLayoutEffect } from "../utils";
 import { stagger } from "../animations";
 import Footer from "../components/Footer";
 import Head from "next/head";
-import Button from "../components/Button";
-import Link from "next/link";
 import Cursor from "../components/Cursor";
 
 // Local Data
 import data from "../data/portfolio.json";
 
 export default function Home() {
+  
   // Ref
   const workRef = useRef();
   const aboutRef = useRef();
